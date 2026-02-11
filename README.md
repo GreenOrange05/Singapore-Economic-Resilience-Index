@@ -3,7 +3,7 @@
 > *"Efficiency is the vaccine, but liquidity is the antibody. Without the latter, the patient may not survive the cure."*
 
 ![J-Curve Findings](images/Figure3_JCurve.png)
-*(Note: You will need to create a folder named 'images' and upload your graph there for this to show up, or link to it later)*
+
 
 ## 📄 Project Overview
 **Can a country be "too efficient" for its own good?**
