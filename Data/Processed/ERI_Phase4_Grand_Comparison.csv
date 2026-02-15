@@ -1,0 +1,4 @@
+Metric,V1 (Policy),V2 (Robust)
+Champion Model,Random Forest,Ridge (Linear)
+Fit (R2),0.29,0.15
+Lag Effect,NO,NO
