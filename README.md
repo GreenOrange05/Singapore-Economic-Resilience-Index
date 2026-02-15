@@ -22,11 +22,11 @@ This Capstone Project challenges the "Smart Nation" mandate by analyzing 10 year
 ## 🛠️ Repository Structure
 This analysis is broken into modular notebooks for reproducibility:
 
-* **`01_Data_Prep.ipynb`**: Cleaning SingStat/MOM macro-data and handling missing time-series values.
-* **`02_ERI_Construction.ipynb`**: Building the Index. Comparisons of Arithmetic vs. Geometric Means.
-* **`03_Modeling_JCurve.ipynb`**: The core econometric engine (Fixed Effects Panel Regression).
-* **`04_Visualizations.ipynb`**: Generating the Twin Test and Diagnostic Plots.
-* **`05_Policy_Simulation.ipynb`**: The "Transition Trap" simulation model (Figure 4) demonstrating the liquidity risks of digitalization.
+* **`01_Data_Loading.ipynb`**: The initial ingestion pipeline. Validating and loading raw SingStat/MOM macro-data into the environment.
+* **`02_Data_Preprocessing.ipynb`**: The cleaning engine. Handling missing time-series values, standardizing quarterly/annual frequencies, and filtering for "Real" vs. "Nominal" data.
+* **`03_EDA.ipynb`**: Exploratory Data Analysis. Visualizing initial sector volatility and identifying the "Structural Divergence" between labor-intensive and capital-intensive industries.
+* **`04_Modeling.ipynb`**: The econometric core. Constructing the ERI (V1 vs. V2) and running the Fixed Effects Panel Regression to test the "Efficiency Curse" hypothesis.
+* **`05_Conclusions_Visualizations.ipynb`**: The synthesis. Generating the "Twin Test" model tournament and the "Transition Trap" simulation (Figure 4) to visually demonstrate the liquidity risks of digitalization.
 
 ## 🚀 How to Run
 1. Clone the repo.
