@@ -13,9 +13,11 @@ This Capstone Project challenges the "Smart Nation" mandate by analyzing 10 year
 [**Click here to view the Executive Report (PDF)**](./The_Efficiency_Paradox.pdf)
 
 ## 📊 Key Findings (The "Singapore Paradox")
-1.  **The Twin Test:** Standard economic metrics (Volatility/GDP) mask risk. My robust **Semi-Deviation Index (V2)** revealed hidden fragility in high-growth sectors.
-2.  **Structural Divergence:** Tech adoption correlates *positively* with resilience in Finance but *negatively* in Construction ($r = -0.15$).
-3.  **The J-Curve:** We proved a "Valley of Death" timeline. Resilience drops by **18%** in Year 1 (The Fever) before rising **22%** in Year 3 (The Immunity).
+* **The Twin Test (Complexity vs. Clarity):** Standard economic metrics (V1) act as "Black Boxes," best predicted by complex Random Forest models ($R^2=0.29$) which memorize noise. My **Robust Index (V2)** is best predicted by linear models (Ridge Regression), proving it successfully filters out random growth spikes to isolate the true, structural trade-off between efficiency and resilience.
+
+* **Structural Divergence:** Tech adoption is not a universal cure. It correlates **positively** with resilience in Finance ($r=+0.45$) due to digital synergy, but **negatively** in Construction ($r=-0.15$). In labor-intensive sectors, efficiency often removes "physical slack" (inventory/staff), creating a brittle "Glass Cannon" structure that shatters under stress.
+
+* **The J-Curve:** We proved a "Valley of Death" timeline for digital transformation. Resilience drops by **18%** in Year 1 ("The Fever") as firms drain liquidity for CAPEX and disrupt workflows. It is only in Year 3 ("The Immunity") that resilience rises by **22%**, confirming that for the first 24 months, "efficient" firms are statistically more vulnerable to insolvency.
 
 ## 🛠️ Repository Structure
 This analysis is broken into modular notebooks for reproducibility:
