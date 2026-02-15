@@ -2,7 +2,7 @@
 
 > *"Efficiency is the vaccine, but liquidity is the antibody. Without the latter, the patient may not survive the cure."*
 
-![J-Curve Findings](images/Figure3_JCurve.png)
+![J-Curve Findings](Data/Visuals/11_VisualA_JCurve.png)
 
 
 ##  Project Overview
