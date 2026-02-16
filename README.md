@@ -34,7 +34,7 @@ The "Twin Test" revealed a critical divergence in predictability:
 
 ---
 
-## 📉 Key Findings: The "Singapore Paradox"
+## Key Findings: The "Singapore Paradox"
 
 ### 1. Structural Divergence (The "Glass Cannon" Effect)
 Technology is not a universal cure. The regression analysis revealed three distinct sector archetypes:
@@ -77,7 +77,7 @@ Current subsidies (e.g., Productivity Solutions Grant) operate on an "Injection"
 
 This analysis is broken into modular notebooks for reproducibility:
 
-* **`The_Efficiency_Paradox.pdf`**: 📄 **The Full Executive Report.** (Read this first for the complete analysis).
+* **`The_Efficiency_Paradox.pdf`**: **The Full Executive Report.** (Read this first for the complete analysis).
 * **`01_Data_Loading.ipynb`**: The initial ingestion pipeline. Validating and loading raw SingStat/MOM macro-data.
 * **`02_Data_Preprocessing.ipynb`**: The cleaning engine. Standardizing frequencies and filtering for "Real" (Chained Volume) vs. "Nominal" (Inflation) data to prevent volatility masking.
 * **`03_EDA.ipynb`**: Exploratory Data Analysis. Visualizing the "Structural Divergence" between labor and capital-intensive industries.
