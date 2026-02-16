@@ -1,4 +1,5 @@
-# The Singapore Efficiency Paradox: Structural Divergence & The J-Curve (2014-2024)
+# Singapore Economic Resilience Index (SERI)
+### *Structural Divergence & The Efficiency Paradox*
 
 > *"Efficiency is the vaccine, but liquidity is the antibody. Without the latter, the patient may not survive the cure."*
 
