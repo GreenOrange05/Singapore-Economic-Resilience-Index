@@ -5,7 +5,7 @@
 
 ---
 
-## 📄 Project Overview
+## Project Overview
 
 **Can a country be "too efficient" for its own good?**
 
@@ -13,11 +13,11 @@ Since 2014, Singapore's "Smart Nation" mandate has operated on a linear assumpti
 
 This Capstone Project challenges that view. By analyzing 10 years of sectoral data (SingStat/MOM) and constructing a custom **Economic Resilience Index (ERI)**, I uncovered the **"Efficiency Curse"**: a counter-intuitive phenomenon where rapid digital transformation *actively degrades* economic resilience in labor-intensive sectors for up to 2 years before benefits materialize.
 
-### 📥 [Read the Full Executive Report (PDF)](The_Efficiency_Paradox.pdf)
+### [Read the Full Executive Report (PDF)](The_Efficiency_Paradox.pdf)
 
 ---
 
-## 📊 The "Twin Test": Complexity vs. Clarity
+## The "Twin Test": Complexity vs. Clarity
 
 To quantify resilience, I rejected standard metrics like GDP Volatility, which often mask risk. I developed two competing indices to test the "Smart Nation" hypothesis:
 
@@ -62,7 +62,7 @@ We modeled a typical distressed firm undergoing transformation. The simulation i
 
 ---
 
-## 🏛️ Policy Implications
+## Policy Implications
 
 Current subsidies (e.g., Productivity Solutions Grant) operate on an "Injection" model—paying for the software. This is insufficient because it ignores the "Fever."
 
@@ -73,7 +73,7 @@ Current subsidies (e.g., Productivity Solutions Grant) operate on an "Injection"
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 
 This analysis is broken into modular notebooks for reproducibility:
 
@@ -87,7 +87,7 @@ This analysis is broken into modular notebooks for reproducibility:
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 To replicate the findings, you will need a Python environment with the following dependencies:
 
